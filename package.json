@@ -1,10 +1,10 @@
 {
-  "name": "colorify",
-  "version": "1.0.0",
+  "name": "console-colorify",
+  "version": "1.0.1",
   "description": "A npm library to colorify your console log",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "scripts": {git 
+  "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
   },
@@ -15,7 +15,7 @@
   "keywords": [
     "colorify",
     "console-colorify",
-    "colorify condole log",
+    "colorify console log",
     "color your console"
   ],
   "author": "Sumit Kumar Das <contact.sumitkrdas@gmail.com>",
